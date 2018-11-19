@@ -1,6 +1,3 @@
-.contact-name{
-    font-family: Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;  
-}
-.section{
-   font-color: blue;
+#Palatino font { 
+   font-family: Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;  
 }
