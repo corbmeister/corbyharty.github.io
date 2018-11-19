@@ -1,14 +1,16 @@
 body {
   font-family: Arial;
 }  
-.contact-name { 
-font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
-font-color: blue;
-}
-.contact-info { 
-font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
-font-color: blue;
-}
+
 .section {
  font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif;
+}
+
+#contact-name { 
+font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
+font-color: blue;
+}
+#contact-info { 
+font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
+font-color: blue;
 }
